@@ -15,3 +15,4 @@ Para usar um, primeiro alimentamos e depois informamos qual função queremos us
 
 Logo, não vamos trabalhar com nenhuma das duas pontas, vamo trabalhar com o meio: C
 
+[![Aula Yvo.jpg](https://i.postimg.cc/bNKzF34n/Imagem-do-Whats-App-de-2025-02-20-s-16-48-37-337b250c.jpg)](https://postimg.cc/dLjPhmsQ)
