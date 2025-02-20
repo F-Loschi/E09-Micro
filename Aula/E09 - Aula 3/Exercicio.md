@@ -30,3 +30,8 @@ b) Para quais valores de "a" a variável j será incrementada?
 
 c) Seria viável substituir essas estruturas "if" por "switch"?
 * Não, pois como os casos de um switch aceitam apenas valores fixos, teríamos que ter infinitos casos de um switch
+
+---
+
+3)
+[![Imagem-do-Whats-App-de-2025-02-20-s-16-52-46-45788a7d.jpg](https://i.postimg.cc/hGMRgrZp/Imagem-do-Whats-App-de-2025-02-20-s-16-52-46-45788a7d.jpg)](https://postimg.cc/p996JDHF)
